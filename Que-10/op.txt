@@ -1,0 +1,7 @@
+1
+4
+2
+3
+
+REASON :-
+  The reason for this sequence is that JavaScript schedules asynchronous tasks like the setTimeout callbacks in a task queue.
